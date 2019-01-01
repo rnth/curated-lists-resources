@@ -1,3 +1,9 @@
 http://www.leonerd.org.uk/code/
 http://effbot.org/zone/python-with-statement.htm
 https://preshing.com/20110920/the-python-with-statement-by-example/
+http://brandonrose.org/clustering
+https://www.codementor.io/jadianes/python-vs-r-for-data-science-data-frames-i-du108148i
+https://www.codementor.io/jadianes/data-science-python-r-exploratory-data-analysis-visualization-du107jjms
+https://web.archive.org/web/20140105103917/http://pypix.com/python/functional-programming/
+https://web.archive.org/web/20160804165759/http://www.eecg.toronto.edu:80/~jzhu/csc326/readings/lec10.pdf
+https://web.archive.org/web/20140108015721/http://www.activestate.com/activepython
