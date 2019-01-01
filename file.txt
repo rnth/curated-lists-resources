@@ -1,1 +1,2 @@
 http://www.leonerd.org.uk/code/
+http://effbot.org/zone/python-with-statement.htm
