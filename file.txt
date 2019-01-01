@@ -1,2 +1,3 @@
 http://www.leonerd.org.uk/code/
 http://effbot.org/zone/python-with-statement.htm
+https://preshing.com/20110920/the-python-with-statement-by-example/
