@@ -7,3 +7,4 @@ https://www.codementor.io/jadianes/data-science-python-r-exploratory-data-analys
 https://web.archive.org/web/20140105103917/http://pypix.com/python/functional-programming/
 https://web.archive.org/web/20160804165759/http://www.eecg.toronto.edu:80/~jzhu/csc326/readings/lec10.pdf
 https://web.archive.org/web/20140108015721/http://www.activestate.com/activepython
+http://akaptur.com/blog/categories/python-internals/
