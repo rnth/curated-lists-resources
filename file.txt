@@ -9,3 +9,8 @@ https://web.archive.org/web/20160804165759/http://www.eecg.toronto.edu:80/~jzhu/
 https://web.archive.org/web/20140108015721/http://www.activestate.com/activepython
 http://akaptur.com/blog/categories/python-internals/
 https://github.com/haseebr/competitive-programming/tree/master/Materials
+https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/
+https://www.smallsurething.com/python-descriptors-made-simple/
+http://www.matusiak.eu/numerodix/blog/2013/8/11/python-bytecode-classes/
+https://realpython.com/primer-on-python-decorators/
+http://www.dabeaz.com/finalgenerator/
