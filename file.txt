@@ -14,3 +14,4 @@ https://www.smallsurething.com/python-descriptors-made-simple/
 http://www.matusiak.eu/numerodix/blog/2013/8/11/python-bytecode-classes/
 https://realpython.com/primer-on-python-decorators/
 http://www.dabeaz.com/finalgenerator/
+Guide to learning Python decorators, Matt Harrison (Book)
