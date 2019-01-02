@@ -16,3 +16,4 @@ https://realpython.com/primer-on-python-decorators/
 http://www.dabeaz.com/finalgenerator/
 Guide to learning Python decorators, Matt Harrison (Book)
 http://wla.berkeley.edu/~cs61a/fa11/lectures/streams.html
+https://automatetheboringstuff.com/chapter11/
