@@ -19,3 +19,4 @@ http://wla.berkeley.edu/~cs61a/fa11/lectures/streams.html
 https://automatetheboringstuff.com/chapter11/
 https://cs61a.org
 https://www.aeracode.org/2018/02/02/channels-20/
+https://effectivepython.com/2015/03/10/consider-coroutines-to-run-many-functions-concurrently/
