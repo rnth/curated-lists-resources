@@ -20,3 +20,4 @@ https://automatetheboringstuff.com/chapter11/
 https://cs61a.org
 https://www.aeracode.org/2018/02/02/channels-20/
 https://effectivepython.com/2015/03/10/consider-coroutines-to-run-many-functions-concurrently/
+http://simeonvisser.com/posts/python-3-using-yield-from-in-generators-part-2.html
